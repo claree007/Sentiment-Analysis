@@ -1,0 +1,7 @@
+tensorflow>=2.0
+numpy
+tqdm
+nltk
+gensim
+matplotlib
+sklearn
