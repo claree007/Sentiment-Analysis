@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/claree007/Sentiment-Analysis/master?urlpath=%2Fvoila%2Frender%2Finference.ipynb)
+
 # Sentiment Analysis
 Sentiment analysis on the Large Movie Review Dataset
 
