@@ -1,0 +1,3 @@
+echo downloading the model...
+wget https://github.com/claree007/Sentiment-Analysis/releases/download/1.0/model.h5
+echo downloaded the model
