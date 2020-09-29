@@ -12,14 +12,14 @@ Pre-trained embeddings: [https://wikipedia2vec.github.io/wikipedia2vec/pretraine
 ## Sample Output
 
 ```
-> The movie was long and left much to be desired.                
-Sentiment score: [[0.12004671]] 
+'The movie was long and left much to be desired.'
+Prediction: Negative  Sentiment score: 1.94
 
-> the action waS out of the world. And such details to the story line
-Sentiment score: [[0.38129967]] 
+'the action waS out of the world. And such details to the story line'
+Prediction: Positive  Sentiment score: 4.47
 
-> even with a star studded cast, the movie lacked in flair. A meaningless plot stretched over 2 hours
-Sentiment score: [[-0.20105462]]
+'even with a star studded cast, the movie lacked in flair. A meaningless plot stretched over 2 hours'
+Prediction: Negative  Sentiment score: 1.61
 ```
 
 ## Setup
